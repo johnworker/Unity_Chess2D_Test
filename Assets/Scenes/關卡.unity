@@ -629,10 +629,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c39f9e929e37b347aa8d95b62ec47b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TaskPanel: {fileID: 0}
+  TaskPanel: {fileID: 1508169869}
   TaskText: {fileID: 0}
-  BasePanel: {fileID: 0}
-  HandImage: {fileID: 0}
+  BasePanel: {fileID: 1508169869}
+  HandImage: {fileID: 1508169869}
   BaseName: {fileID: 0}
   BaseLevel: {fileID: 0}
   BaseHp: {fileID: 0}
@@ -640,7 +640,7 @@ MonoBehaviour:
   WeaponRange: {fileID: 0}
   WeaponHit: {fileID: 0}
   WeaponFire: {fileID: 0}
-  MenuPanel: {fileID: 0}
+  MenuPanel: {fileID: 1508169869}
   MoveItem: {fileID: 0}
   DeformItem: {fileID: 0}
   SpiritItem: {fileID: 0}
